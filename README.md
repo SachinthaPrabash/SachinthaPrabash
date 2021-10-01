@@ -4,6 +4,10 @@ Hi, I'm Sachintha prabash,🚀 from Srilanka,👨🏽‍💻 currently I'm a Und
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
+
+![](https://komarev.com/ghpvc/?username=SachinthaPrabash&color=green)
+
+
 <!--
 **SachinthaPrabash/SachinthaPrabash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
