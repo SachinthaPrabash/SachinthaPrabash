@@ -20,6 +20,6 @@ Hi, I'm Sachintha prabash,🚀 from Srilanka,👨🏽‍💻 currently I'm a Und
 - 💬 Ask me about anything
 - 📫 How to reach me: prabashsachintha@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaPrabash&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinthaPrabash&layout=compact)
 
 
